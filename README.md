@@ -25,5 +25,4 @@ To get started with the gym management system, follow these steps:
 - Muhammad Sarim
 - Muhammad Abdullah
 
-Feel free to contribute, raise issues, or suggest improvements. We hope you find this gym management system useful for your administrative needs!
-
+Feel free to contribute, raise issues, or suggest improvements.

@@ -15,10 +15,10 @@ This project is a Java-based gym management system developed using object-orient
 
 To get started with the gym management system, follow these steps:
 
-1. Clone the repository by clicking on this link: [GitHub Repository](https://github.com/KaShiekzmi/Gym-Management-System-GUI-OOP-Java-Project):\
-2. Set up your Java development environment.\
-3. Compile and run the project using your preferred Java IDE or build tools.\
-4. Follow the on-screen instructions to navigate through the system and utilize its various features.\
+1. Clone the repository by clicking on this link: [GitHub Repository](https://github.com/KaShiekzmi/Gym-Management-System-GUI-OOP-Java-Project):
+2. Set up your Java development environment.
+3. Compile and run the project using your preferred Java IDE or build tools.
+4. Follow the on-screen instructions to navigate through the system and utilize its various features.
 
 ## Contributors
 

@@ -5,6 +5,7 @@ This project is a Java-based gym management system developed using object-orient
 ## Features
 
 - **Login**: Users can securely authenticate with a username and password to access the system.
+  
 ![login](https://github.com/KaShiekzmi/Gym-Management-System-GUI-OOP-Java-Project/assets/114513868/76e6cf42-afb6-422e-beb0-48f452a7f2c3)
 - **Member Management**: Add, view, search, and delete member records with ease.
 - **Trainer Management**: Add, view, search, and delete trainer records with ease.

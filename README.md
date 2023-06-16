@@ -38,6 +38,5 @@ To get started with the gym management system, follow these steps:
 
 - Kashif Abbas Kazmi
 - Muhammad Sarim
-- Muhammad Abdullah
 
 Feel free to contribute, raise issues, or suggest improvements.

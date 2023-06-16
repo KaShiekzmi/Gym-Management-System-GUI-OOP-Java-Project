@@ -9,7 +9,7 @@ This project is a Java-based gym management system developed using object-orient
 - **Trainer Management**: Add, view, search, and delete trainer records with ease.
 - **Machine Booking**: Allow members to book gym machines, with automatic registration number generation and booking restrictions.
 - **Financial Accounts**: Track member balances, make individual or bulk payments, and manage financial records.
-- **Reports**: Generate valuable reports for insights into member, bookings, financial records, and more.
+- **Reports**: Generate valuable reports for insights into members, bookings, financial records, and more.
 
 ## Getting Started
 

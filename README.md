@@ -1,2 +1,30 @@
-# Gym-Management-System-GUI-OOP-Java-Project
-Java Gym Management System with GUI - A comprehensive OOP project for managing gym operations. Features include login, member/trainer management, machine booking, financial accounts, and reports. Developed by Kashif Abbas Kazmi, Muhammad Sarim, and Muhammad Abdullah.
+# Gym Management System with GUI
+
+This project is a Java-based gym management system developed using object-oriented programming principles and a graphical user interface (GUI). It provides a comprehensive solution for managing various aspects of a gym, including member registration, trainer management, machine booking, financial accounts, and reporting.
+
+## Features
+
+- **Login**: Users can securely authenticate with a username and password to access the system.
+- **Member Management**: Add, view, search, and delete member records with ease.
+- **Trainer Management**: Efficiently manage trainer profiles, schedules, and assignments.
+- **Machine Booking**: Allow members to book gym machines, with automatic registration number generation and booking restrictions.
+- **Financial Accounts**: Track member balances, make individual or bulk payments, and manage financial records.
+- **Reports**: Generate valuable reports for insights into member performance, financial records, and more.
+
+## Getting Started
+
+To get started with the gym management system, follow these steps:
+
+1. Clone the repository by clicking on this link: [GitHub Repository](https://github.com/KaShiekzmi/Gym-Management-System-GUI-OOP-Java-Project):\
+2. Set up your Java development environment.\
+3. Compile and run the project using your preferred Java IDE or build tools.\
+4. Follow the on-screen instructions to navigate through the system and utilize its various features.\
+
+## Contributors
+
+- Kashif Abbas Kazmi
+- Muhammad Sarim
+- Muhammad Abdullah
+
+Feel free to contribute, raise issues, or suggest improvements. We hope you find this gym management system useful for your administrative needs!
+

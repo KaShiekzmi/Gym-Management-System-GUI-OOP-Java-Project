@@ -18,7 +18,7 @@ This project is a Java-based gym management system developed using object-orient
 ![Trainer menu](https://github.com/KaShiekzmi/Gym-Management-System-GUI-OOP-Java-Project/assets/114513868/855d3dad-17d8-425c-82cb-74fa9986d8e9)
 - **Machine Booking**: Allow members to book gym machines, with automatic registration number generation and booking restrictions.
 
-![Machine menu](https://github.com/KaShiekzmi/Gym-Management-System-GUI-OOP-Java-Project/assets/114513868/64ed209c-1d83-4637-9ec7-cfcc8e44b29b)
+![Booking menu](https://github.com/KaShiekzmi/Gym-Management-System-GUI-OOP-Java-Project/assets/114513868/4be8aed3-326d-4028-9659-47126c066dfc)
 - **Financial Accounts**: Track member balances, make individual or bulk payments, and manage financial records.
 
 ![accounts menu](https://github.com/KaShiekzmi/Gym-Management-System-GUI-OOP-Java-Project/assets/114513868/9f8f8329-284e-4b48-9195-70a7de3b2e89)
